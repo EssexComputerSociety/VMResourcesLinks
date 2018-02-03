@@ -1,0 +1,5 @@
+The Repository - https://github.com/EssexComputerSociety/brookix
+
+OSDev Wiki - https://wiki.osdev.org/Main_Page
+Rust Book - https://doc.rust-lang.org/book/second-edition/
+Rust Documentation - https://doc.rust-lang.org/std/

@@ -7,3 +7,7 @@
  - OSDev Wiki - https://wiki.osdev.org/Main_Page
  - Rust Book - https://doc.rust-lang.org/book/second-edition/
  - Rust Documentation - https://doc.rust-lang.org/std/
+
+
+## VM
+- The VM username and password are both `ecs`

@@ -10,4 +10,4 @@
 
 
 ## VM
-- The VM username and password are both `ecs`
+- The VM username and password are both `ecs` 
